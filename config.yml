@@ -4,5 +4,9 @@ useless_process:
   - 'onedrive'
   - 'v3'
   - 'hnc'
+  - 'v3ui'
+  - 'asdsvc'
+  - 'assvc'
+  - 'esasvc'
 
-message: 'aaaaaaa'
+message: ''
