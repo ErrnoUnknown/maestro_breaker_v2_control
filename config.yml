@@ -1,4 +1,4 @@
-run: False
+run: True
 
 useless_process:
   - 'onedrive'
