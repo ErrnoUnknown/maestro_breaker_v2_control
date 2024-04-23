@@ -10,3 +10,5 @@ useless_process:
   - 'esasvc'
 
 message: ''
+
+config_check_tick: 15
