@@ -9,6 +9,6 @@ useless_process:
   - 'assvc'
   - 'esasvc'
 
-message: ''
+message: 'BETA V1.0'
 
-config_check_tick: 15
+config_check_tick: 25
